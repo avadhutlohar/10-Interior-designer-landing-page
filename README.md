@@ -4,7 +4,7 @@ It is part of the Full Stack Javascript Bootcamp being taught at ineuron.ai by H
 ![HTML & CSS](https://img.shields.io/badge/Project1-HTML%26CSS-brightgreen)
 
 
-## Project  [Live Link]()
+## Project 10 [Live Link](https://interior-designer-landing-page.netlify.app/)
 
 -   During this project, I gained the following skills:
     -   I learned how to use background gradient
